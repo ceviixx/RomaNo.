@@ -1,19 +1,12 @@
-<p align="center">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/82/c4/e4/82c4e4a9-2ece-7125-e3af-e4622e7f216f/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/460x0w.webp" width="120" alt="Romano App Icon" />
-</p>
+> [!IMPORTANT]
+> **This project is no longer maintained.**  
+> The app is **no longer available on the App Store** and will not receive any further updates.
 
-<h1 align="center">RomaNo.</h1>
+<img src="RomaNo./Assets.xcassets/AppIcon.appiconset/Artboard.png" alt="RomaNo." style="width:200px;">
 
-<p align="center">
-  Convert calendar dates into Roman numerals – instantly and offline.<br />
-  Built with SwiftUI – iOS 17+.
-</p>
-
-<p align="center">
-  <a href="https://apps.apple.com/us/app/romano/id1444520602">
-      <img src="https://img.shields.io/badge/App%20Store-Download-yellow?style=for-the-badge&logo=apple&logoColor=white" alt="App Store Download" height="28" />
-  </a>
-</p>
+# RomaNo.
+Convert calendar dates into Roman numerals – instantly and offline.<br />
+Built with SwiftUI – iOS 17+.
 
 ---
 
